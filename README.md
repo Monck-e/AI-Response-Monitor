@@ -9,6 +9,9 @@ For the first time to use it, the website may send you an alert 'whether to allo
 
 
 
+It can automatically monitor whether you send message. And will change the prompter dot from green to yellow. When the answer is completed, it will send you a website notification and a system notification, no matter you are on the page or not. That means you can do anything else, while the AI is generating answer, to use time in a better way and work more efficient.
+
+
 
 AI Monitor now could be used on :
 
